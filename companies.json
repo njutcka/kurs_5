@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1740,
+    "name": "Яндекс",
+    "url": "https://api.hh.ru/employers/1740"
+  },
+  {
+    "id": 3529,
+    "name": "Сбер",
+    "url": "https://api.hh.ru/employers/3529"
+  },
+  {
+    "id": 3776,
+    "name": "МТС",
+    "url": "https://api.hh.ru/employers/3776"
+  },
+  {
+    "id": 78638,
+    "name": "Тинкофф",
+    "url": "https://api.hh.ru/employers/78638"
+  },
+  {
+    "id": 2460946,
+    "name": "Самокат",
+    "url": "https://api.hh.ru/employers/2460946"
+  },
+  {
+    "id": 2180,
+    "name": "OZON",
+    "url": "https://api.hh.ru/employers/2180"
+  },
+  {
+    "id": 5912977,
+    "name": "АТОМ",
+    "url": "https://api.hh.ru/employers/5912977"
+  },
+  {
+    "id": 1140385,
+    "name": "nordgold",
+    "url": "https://api.hh.ru/employers/1140385"
+  },
+  {
+    "id": 6591,
+    "name": "ПСБ",
+    "url": "https://api.hh.ru/employers/6591"
+  },
+  {
+    "id": 1942336,
+    "name": "Перекресток",
+    "url": "https://api.hh.ru/employers/1942336"
+  }
+]
